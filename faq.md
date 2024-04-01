@@ -1,4 +1,4 @@
-# FAQ
+# 💡Intrebari frecvente
 
 - Cum insatlez moonloader
 inclus in mod - acidrpg.com/gc
