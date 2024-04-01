@@ -33,3 +33,5 @@ acidrpg.com/gc
 ## Pot sa trimit mesaje de pe discord pe chat?
 > - nu
 
+
+> `last update: 01.04.2024`
