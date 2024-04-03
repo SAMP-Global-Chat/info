@@ -34,4 +34,4 @@ acidrpg.com/gc
 > - nu
 
 
-> `last update: 01.04.2024`
+> `last update: 03.04.2024`
