@@ -23,7 +23,3 @@
 > - certurile intre servere / pe acelasi server sunt interzise, iar ambele `"tabere"` vor fi sanctionate
 > - acceptam **glumele de bun simt**, dar atat timp cat se duce la cearta, pentru binele tuturor, sa o incercam sa o evitam
 > - glumele de **prost gust** vor fi sanctionate cu **mute permanent**, cand cineva iti spune sa te opresti, ca il deranjeaza ce spui, si continui cu acel comportament, primesit mute permanent
-
-### Reclamatie
-> - inainte sa trimiti STAFF-ului o reclamatie despre cineva care te-a deranjat pe Global-Chat, este nevoie sa adaugi o dovada ca ai incercat sa te intelegi cu persoana respectiva si nu ai reusit, adica trebuie sa atasezi o dovada in care i-ai explicat ca gluma respectiva / comportamentul respectiv te-a deranjat si de atunci nu s-a mai intamplat nimic
-> - reclamatiile catre staff se fac pe <#1221533565356081293> folosind comanda [/report <discord user>]
