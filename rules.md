@@ -23,3 +23,7 @@
 > - certurile intre servere / pe acelasi server sunt interzise, iar ambele `"tabere"` vor fi sanctionate
 > - acceptam **glumele de bun simt**, dar atat timp cat se duce la cearta, pentru binele tuturor, sa o incercam sa o evitam
 > - glumele de **prost gust** vor fi sanctionate cu **mute permanent**, cand cineva iti spune sa te opresti, ca il deranjeaza ce spui, si continui cu acel comportament, primesit mute permanent
+
+
+## Altele:
+> - sunt **ABSOLUT INTERZISE** anunturile de **cumparare / vanzare** pe Global-Chat, este INTERZIS sa spui: `'Vand 50pp pe <server>'`, se accepta doar intrebarile de tip-ul: `'La voi cat costa 50pp'?`, dar cine continua cu `'30kk, am eu de vanzare'`, se incadreaza la anunut de cumparare / vanzare
