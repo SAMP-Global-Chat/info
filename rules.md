@@ -26,4 +26,4 @@
 
 
 ## Altele:
-> - sunt **ABSOLUT INTERZISE** anunturile de **cumparare / vanzare** pe Global-Chat, este INTERZIS sa spui: `'Vand 50pp pe <server>'`, se accepta doar intrebarile de tip-ul: `'La voi cat costa 50pp'?`, dar cine continua cu `'30kk, am eu de vanzare'`, se incadreaza la anunut de cumparare / vanzare
+> - sunt **ABSOLUT INTERZISE** anunturile de **cumparare / vanzare** pe Global-Chat, este INTERZIS sa spui: `'Vand 50pp pe <server>'`, se accepta doar intrebarile de tipul: `'La voi cat costa 50pp'?`
