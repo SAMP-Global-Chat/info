@@ -4,7 +4,7 @@
 > - moonloader se descarca automat din arhiva modului, extragi tot din arhiva in fisierul principal al modpack-ului
 
 ## Cum instalez modul?
-> - modul se instaleaza de pe <#1218985524963053688>, descarci arhiva si tot ce se afla in arhiva pui in folderul principal al modpack-ului
+> - modul se instaleaza de pe **<#1218985524963053688>**, descarci arhiva si tot ce se afla in arhiva pui in folderul principal al modpack-ului
 
 ## Cum folosesc modul?
 > - atunci cand intri pe SAMP, trebuie sa **primesti un mesaj de confirmare** ca **modul a fost incarcat**, iar dupa ce te conectezi pe server, cu parola ta, pentru a se confirma ca tu esti detinatorul contului, folsesti **comanda [/gc]** pentru a trimite un mesaj pe chat
@@ -16,7 +16,7 @@
 > - sanctiunea **mute** este permanenta si nu se poate scoate, atat timp cat a fost acordata corect
 
 ## Am server de SAMP, cum pot sa fac sa fie accesibil si la mine pe server modul Global-Chat?
-> - contacteaza-l pe <@880057361081987082> pentru astfel de detalii
+> - contacteaza-l pe **<@880057361081987082>** pentru astfel de detalii
 
 ## Pot plati pt unmute?
 > - nu, nu poti face acest lucru
