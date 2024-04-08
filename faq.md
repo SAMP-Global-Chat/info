@@ -31,7 +31,7 @@
 > - da, Global Chat-ul se vede si pe Discord, pe canalul **<#1218984619521609859>**
 
 ## Pot sa trimit mesaje de pe discord pe chat?
-> - nu, acest sistem nu este implementat momentan
+> - Da, poti face asta pe **<1218984619521609859>**
 
 
-> `last update: 03.04.2024`
+> `last update: 08.04.2024`
